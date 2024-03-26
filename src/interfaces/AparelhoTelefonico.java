@@ -1,4 +1,4 @@
-package apple.interfaces;
+package interfaces;
 
 public interface AparelhoTelefonico {
     void ligar();
